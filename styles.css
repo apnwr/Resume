@@ -1,0 +1,30 @@
+img{
+    height: 130px;
+    border-radius: 50%;
+    
+}
+.Head1 {
+    
+    background-color:"";
+    
+}
+    
+h1{
+ margin-bottom: 0;
+ background-color: white;
+}
+p{
+  margin-top: 0;
+}
+.expp{
+font-size: 15px;
+
+}
+hr{
+    border-style: groove;
+    border-width: thick;
+    
+}
+.he{
+    background-color: white;
+}
